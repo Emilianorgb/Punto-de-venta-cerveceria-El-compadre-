@@ -123,15 +123,15 @@ Es el responsable de supervisar el funcionamiento general de El Compadre.
 
 Funciones:
 
-Administrar usuarios.
+-Administrar usuarios.
 
-Gestionar empleados.
+-Gestionar empleados.
 
-Consultar reportes.
+-Consultar reportes.
 
-Supervisar ventas y compras.
+-Supervisar ventas y compras.
 
-Controlar el inventario.
+-Controlar el inventario.
 
 👨‍🍳Mesero
 
@@ -139,15 +139,15 @@ Es el encargado de brindar atención a los clientes.
 
 Funciones:
 
-Asignar mesas.
+-Asignar mesas.
 
-Registrar pedidos.
+-Registrar pedidos.
 
-Registrar ventas.
+-Registrar ventas.
 
-Registrar pagos.
+-Registrar pagos.
 
-Liberar mesas.
+-Liberar mesas.
 
 
 📦Encargado de Inventario
@@ -156,11 +156,15 @@ Es responsable del abastecimiento de productos.
 
 Funciones:
 
-Registrar proveedores.
-Registrar compras.
-Actualizar inventario.
-Consultar existencias.
-Administrar productos.
+-Registrar proveedores.
+
+-Registrar compras.
+
+-Actualizar inventario.
+
+-Consultar existencias.
+
+-Administrar productos.
 
 👨‍💻Requerimientos Funcionales
 
@@ -219,19 +223,19 @@ El sistema deberá permitir:
 
 Componente	Tecnología
 
-Lenguaje	Java
+-Lenguaje	Java
 
-Arquitectura	MVC
+-Arquitectura	MVC
 
-Base de Datos	MySQL
+-Base de Datos	MySQL
 
-Conectividad	JDBC
+-Conectividad	JDBC
 
-IDE	IntelliJ IDEA
+-IDE	IntelliJ IDEA
 
-Control de Versiones	Git
+-Control de Versiones	Git
 
-Repositorio	GitHub
+-Repositorio	GitHub
 
 ⚙️Arquitectura General del Sistema
 
